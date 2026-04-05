@@ -6,3 +6,5 @@ I will be creating a machine learning model that will be trained on a dataset of
 It will involve using an ensemble model of VGG-16 and EfficientNet-B2. I will implement Convolutional Attention Block Model(CBAM) to improve accuracy. I will also implement Gradient-weighted Class Activation Mapping (Grad-CAM) which is an explainable AI to produce the heatmap that will be displayed to the user. 
 
 The project also involves data augmentation and producing synthetic data as the dataset I am using suffers from the common problem in this space of being an inbalanced dataset as it is rarer for moderately demented patients to have MRIs taken of their brains. 
+
+link to final report: https://docs.google.com/document/d/1dyUyXSf_fjxKJT3lI9qAXNC8E-IDvtXi8qhIhwMfgaA/edit?tab=t.0
