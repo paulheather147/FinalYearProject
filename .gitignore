@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Keras models (as they are too large to push to github)
+*.keras
+export/models/
+
 # Distribution / packaging
 .Python
 build/
